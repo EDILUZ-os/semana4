@@ -1,0 +1,14 @@
+Pregunta 1:
+respuesta: Un entorno que permite ejecutar JavaScript en el servidor.
+
+
+Pregunta 2:
+respuesta: Inicializa un proyecto Node.js creando el archivo package.json.
+
+
+Pregunta 3:
+respuesta: Un framework para construir servidores y APIs en Node.js.
+
+
+Pregunta 4:
+respuesta: Define cómo responde el servidor cuando un usuario accede a una URL.
